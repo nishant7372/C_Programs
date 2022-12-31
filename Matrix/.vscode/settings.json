@@ -1,0 +1,18 @@
+{
+  "files.associations": {
+    "MAT ADD 1.C": "cpp",
+    "MAT ADD (3x3).C": "cpp",
+    "MAT ADD 2.C": "cpp",
+    "MAT ADD (rxc).C": "cpp",
+    "MAT DIAG SUM.C": "cpp",
+    "MAT MUL 1.C": "cpp",
+    "MAT MUL 2.C": "cpp",
+    "MAT TRANPOSE.C": "cpp",
+    "MAT SYMMETRIC.C": "cpp",
+    "MAT MUL (2x2).C": "cpp",
+    "MAT DIAG SUM (3x3).C": "cpp",
+    "MAT IS SYMMETRIC (3x3).C": "cpp",
+    "MAT TRANPOSE (2X2).C": "cpp",
+    "MAT MUL (rxc).C": "cpp"
+  }
+}
